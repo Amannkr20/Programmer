@@ -1,9 +1,9 @@
 # Programmer
 
 
-##👨‍💻 Hey there, I'm Aman Kumar! 🚀
+#👨‍💻 Hey there, I'm Aman Kumar! 🚀
 
-##A curious young developer who loves building apps, AI, and games! Passionate about learning and creating cool projects. 💡
+A curious young developer who loves building apps, AI, and games! Passionate about learning and creating cool projects. 💡
 
 ##🚀 About Me
 ##💻 I love coding & building projects!
